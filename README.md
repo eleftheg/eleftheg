@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am working on genetics and bioinformatics.
+I am working on human genetics and bioinformatics.
 
 <!--
 **eleftheg/eleftheg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
